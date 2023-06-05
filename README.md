@@ -1,8 +1,14 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Output of project
+![airbnb 1](https://github.com/AryanGarate/airbnb-clone1/assets/88654066/0116a703-ea56-4014-bfde-74628d9ca80e)
+![airbnb 2](https://github.com/AryanGarate/airbnb-clone1/assets/88654066/2a86d084-0ebb-4da8-8fdc-61ea8d3a8109)
 
-## Available Scripts
+![airbnb 3](https://github.com/AryanGarate/airbnb-clone1/assets/88654066/a353f9ab-1c91-48c6-9583-010887653553)
+
+## Ava![airbnb 2]
+ilable Scripts
 
 In the project directory, you can run:
 
